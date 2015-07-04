@@ -1,0 +1,64 @@
+ul.post-list a:hover { color: #00a57d; }
+.post-snippets .hentry .entry-title a:hover { color: #00a57d; }
+a, a:active, a:visited { color: #00a57d; }
+.byline span i { color: #00a57d; }
+.entry-meta span i { color: #00a57d; }
+.entry-meta span:hover a { color: #00a57d; }
+.loop-nav a:hover { color: #00a57d; }
+.pagination span.current, .page-links a:hover, .pagination a:hover { background: #00a57d; }
+.sidebar a:hover { color: #00a57d; }
+#before-content-area-wrap { background: -o-linear-gradient(bottom, #06b188 1%, #00a57d 51%);
+    background: -moz-linear-gradient(bottom, #06b188 1%, #00a57d 51%); background: -webkit-linear-gradient(bottom, #06b188 1%, #00a57d 51%);
+    background: -ms-linear-gradient(bottom, #06b188 1%, #00a57d 51%); background: linear-gradient(bottom, #06b188 1%, #00a57d 51%);
+    background-image: -webkit-gradient(linear, left bottom, left top, color-stop(0.01, #06b188), color-stop(0.51, #00a57d));
+    background-color: #00a57d; border-bottom: 1px solid #f9f9f9; box-shadow: 1px 1px #00a57d; }
+#before-content-area a, #before-content-area a:active, #before-content-area a:visited { color: #00a57d; }
+#portfolio-filter a:hover { background: #00a57d; }
+.dropcap2, .dropcap3, .dropcap4, .dropcap5 { background-color: #00a57d; }
+.header-fancy span { background-color: #00a57d; }
+h3.fancy-header { background-color: #00a57d; }
+.top-of-page a:hover { color: #00a57d; }
+.tabs .current, .tabs .current:hover, .tabs li.current a { border-top: 2px solid #00a57d;}
+.read-more a { color: #00a57d; }
+ul#recentcomments li.recentcomments:before { color: #00a57d; }
+.tagcloud a:hover, #bottom-area .tagcloud a:hover { background-color: #00a57d; }
+#primary-menu > ul.menu > li.current-menu-ancestor, #primary-menu > ul.menu > li.current-menu-item { border-top: 4px solid #00a57d; }
+#primary-menu > ul.menu > li:hover, #primary-menu > ul.menu > li.sfHover { background-color: #00a57d; }
+#primary-menu > ul.menu > li:hover:before, #primary-menu > ul.menu > li.sfHover:before { background: #00a57d; }
+div.service-box2:hover h2 a { color: #00a57d; }
+div.service-box1:hover { background-color: #00a57d; }
+.service-box3:hover { border-color: #00a57d; }
+#services-rounded .service-box4:hover h2 { color: #00a57d; }
+.heading1 h2, .user-invitation h2, #clients-introduction .title { color: #00a57d; }
+#slider-showcase-skills blockquote { border-left: 5px solid #00a57d; }
+#column-shortcode-section p { background: #00a57d; }
+.pricing-table .pricing-plan h4 { color: #00a57d; }
+.heading2 .title { color: #00a57d; }
+.fancy-tab .current-tab { background-color: #00a57d; border-color: #00a57d; }
+.fancy-tab li.current-tab:hover { background-color: #00a57d; }
+#content .contact-form input:focus, #content .contact-form textarea:focus { border: 2px solid rgba(0, 165, 125, 0.5); }
+.image-info { background: rgba(0, 165, 125, 0.8); }
+span.action-link a:hover { color: #00a57d; }
+a.more-link:hover { color: #00a57d; }
+.service-box4 [class^="icon-"] { color: #00a57d; }
+
+#site-title a {
+    background: url("green/logo.png") no-repeat scroll 0 0 transparent;
+    }
+
+#sticky-site-title a {
+    background: url("green/logo.png") no-repeat scroll 0 0 transparent;
+    }
+
+.folded-edge {
+    background: url("green/fancy-hover-fold.png") no-repeat -9999px -9999px #f9f9f9;
+    }
+
+a.more-link { background-image: url("green/arrow-more.png"); }
+
+.testimonials2-slider-container blockquote .footer,
+.testimonials3-slider-container blockquote .footer { background-image: url("green/seperator-testimonials.png"); }
+
+.toggle-label { background-image: url("green/toggle-button-plus.png"); }
+
+.active-toggle .toggle-label { background-image: url("green/toggle-button-minus.png"); }

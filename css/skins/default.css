@@ -1,0 +1,67 @@
+ul.post-list a:hover { color: #211D70; }
+.post-snippets .hentry .entry-title a:hover { color: #211D70; }
+a, a:active, a:visited { color: #211D70; }
+.byline span i { color: #211D70; }
+.entry-meta span i { color: #211D70; }
+.entry-meta span:hover a { color: #211D70; }
+.loop-nav a:hover { color: #211D70; }
+.pagination span.current, .page-links a:hover, .pagination a:hover { background: #211D70; }
+.sidebar a:hover { color: #211D70; }
+#before-content-area-wrap { background: -o-linear-gradient(bottom, #50afdf 1%, #211D70 51%);
+    background: -moz-linear-gradient(bottom, #50afdf 1%, #211D70 51%); background: -webkit-linear-gradient(bottom, #50afdf 1%, #211D70 51%);
+    background: -ms-linear-gradient(bottom, #50afdf 1%, #211D70 51%); background: linear-gradient(bottom, #50afdf 1%, #211D70 51%);
+    background-image: -webkit-gradient(linear, left bottom, left top, color-stop(0.01, #50afdf), color-stop(0.51, #211D70));
+    background-color: #211D70; border-bottom: 1px solid #f9f9f9; box-shadow: 1px 1px #211D70; }
+#before-content-area a, #before-content-area a:active, #before-content-area a:visited { color: #211D70; }
+#portfolio-filter a:hover { background: #211D70; }
+.dropcap2, .dropcap3, .dropcap4, .dropcap5 { background-color: #211D70; }
+.header-fancy span { background-color: #211D70; }
+h3.fancy-header { background-color: #211D70; }
+.top-of-page a:hover { color: #211D70; }
+.tabs .current, .tabs .current:hover, .tabs li.current a { border-top: 2px solid #211D70;}
+.read-more a { color: #211D70; }
+ul#recentcomments li.recentcomments:before { }
+.tagcloud a:hover, #bottom-area .tagcloud a:hover { background-color: #211D70; }
+#primary-menu > ul.menu > li.current-menu-ancestor, #primary-menu > ul.menu > li.current-menu-item { border-top: 4px solid #211D70; }
+#primary-menu > ul.menu > li:hover, #primary-menu > ul.menu > li.sfHover { background-color: #211D70; }
+#primary-menu > ul.menu > li:hover:before, #primary-menu > ul.menu > li.sfHover:before { background: #211D70; }
+div.service-box2:hover h2 a { color: #211D70; }
+div.service-box1:hover { background-color: #211D70; }
+.service-box3:hover { border-color: #211D70; }
+#services-rounded .service-box4:hover h2 { color: #211D70; }
+.heading1 h2 { color: #211D70; }
+#slider-showcase-skills blockquote { border-left: 5px solid #211D70; }
+#column-shortcode-section p { background: #211D70; }
+.pricing-table .pricing-plan h4 { color: #211D70; }
+.heading2 .title { color: #211D70; }
+.fancy-tab .current-tab { background-color: #211D70; border-color: #211D70; }
+.fancy-tab li.current-tab:hover { background-color: #211D70; }
+#content .contact-form input:focus, #content .contact-form textarea:focus { border: 2px solid rgba(70, 165, 213, 0.5); }
+.image-info { background: rgba(70, 165, 213, 0.8); }
+span.action-link a:hover { color: #211D70; }
+a.more-link:hover { color: #211D70; }
+.service-box4 [class^="icon-"] { color: #211D70; }
+
+/* ------------- Skin specific backgrounds ----------- */
+
+#site-title a {
+    background: url("default/bpcc_logo.png") no-repeat scroll 0 0 transparent;
+}
+
+#sticky-site-title a {
+    background: url("default/bpcc_logo_s.png") no-repeat scroll 0 0 transparent;
+}
+
+.folded-edge {
+    background: url("default/fancy-hover-fold.png") no-repeat -9999px -9999px #f9f9f9;
+}
+
+a.more-link { background-image: url("default/arrow-more.png"); }
+
+.testimonials2-slider-container blockquote .footer,
+.testimonials3-slider-container blockquote .footer { background-image: url("default/seperator-testimonials.png"); }
+
+.toggle-label { background-image: url("default/toggle-button-plus.png"); }
+
+.active-toggle .toggle-label { background-image: url("default/toggle-button-minus.png"); }
+

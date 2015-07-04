@@ -1,0 +1,64 @@
+ul.post-list a:hover { color: #dd5679; }
+.post-snippets .hentry .entry-title a:hover { color: #dd5679; }
+a, a:active, a:visited { color: #dd5679; }
+.byline span i { color: #dd5679; }
+.entry-meta span i { color: #dd5679; }
+.entry-meta span:hover a { color: #dd5679; }
+.loop-nav a:hover { color: #dd5679; }
+.pagination span.current, .page-links a:hover, .pagination a:hover { background: #dd5679; }
+.sidebar a:hover { color: #dd5679; }
+#before-content-area-wrap { background: -o-linear-gradient(bottom, #e96386 1%, #dd5679 51%);
+    background: -moz-linear-gradient(bottom, #e96386 1%, #dd5679 51%); background: -webkit-linear-gradient(bottom, #e96386 1%, #dd5679 51%);
+    background: -ms-linear-gradient(bottom, #e96386 1%, #dd5679 51%); background: linear-gradient(bottom, #e96386 1%, #dd5679 51%);
+    background-image: -webkit-gradient(linear, left bottom, left top, color-stop(0.01, #e96386), color-stop(0.51, #dd5679));
+    background-color: #dd5679; border-bottom: 1px solid #f9f9f9; box-shadow: 1px 1px #dd5679; }
+#before-content-area a, #before-content-area a:active, #before-content-area a:visited { color: #dd5679; }
+#portfolio-filter a:hover { background: #dd5679; }
+.dropcap2, .dropcap3, .dropcap4, .dropcap5 { background-color: #dd5679; }
+.header-fancy span { background-color: #dd5679; }
+h3.fancy-header { background-color: #dd5679; }
+.top-of-page a:hover { color: #dd5679; }
+.tabs .current, .tabs .current:hover, .tabs li.current a { border-top: 2px solid #dd5679;}
+.read-more a { color: #dd5679; }
+ul#recentcomments li.recentcomments:before { color: #dd5679; }
+.tagcloud a:hover, #bottom-area .tagcloud a:hover { background-color: #dd5679; }
+#primary-menu > ul.menu > li.current-menu-ancestor, #primary-menu > ul.menu > li.current-menu-item { border-top: 4px solid #dd5679; }
+#primary-menu > ul.menu > li:hover, #primary-menu > ul.menu > li.sfHover { background-color: #dd5679; }
+#primary-menu > ul.menu > li:hover:before, #primary-menu > ul.menu > li.sfHover:before { background: #dd5679; }
+div.service-box2:hover h2 a { color: #dd5679; }
+div.service-box1:hover { background-color: #dd5679; }
+.service-box3:hover { border-color: #dd5679; }
+#services-rounded .service-box4:hover h2 { color: #dd5679; }
+.heading1 h2, .user-invitation h2, #clients-introduction .title { color: #dd5679; }
+#slider-showcase-skills blockquote { border-left: 5px solid #dd5679; }
+#column-shortcode-section p { background: #dd5679; }
+.pricing-table .pricing-plan h4 { color: #dd5679; }
+.heading2 .title { color: #dd5679; }
+.fancy-tab .current-tab { background-color: #dd5679; border-color: #dd5679; }
+.fancy-tab li.current-tab:hover { background-color: #dd5679; }
+#content .contact-form input:focus, #content .contact-form textarea:focus { border: 2px solid rgba(221, 86, 121, 0.5); }
+.image-info { background: rgba(221, 86, 121, 0.8); }
+span.action-link a:hover { color: #dd5679; }
+a.more-link:hover { color: #dd5679; }
+.service-box4 [class^="icon-"] { color: #dd5679; }
+
+#site-title a {
+    background: url("pink/logo.png") no-repeat scroll 0 0 transparent;
+    }
+
+#sticky-site-title a {
+    background: url("pink/logo.png") no-repeat scroll 0 0 transparent;
+    }
+
+.folded-edge {
+    background: url("pink/fancy-hover-fold.png") no-repeat -9999px -9999px #f9f9f9;
+    }
+
+a.more-link { background-image: url("pink/arrow-more.png"); }
+
+.testimonials2-slider-container blockquote .footer,
+.testimonials3-slider-container blockquote .footer { background-image: url("pink/seperator-testimonials.png"); }
+
+.toggle-label { background-image: url("pink/toggle-button-plus.png"); }
+
+.active-toggle .toggle-label { background-image: url("pink/toggle-button-minus.png"); }
